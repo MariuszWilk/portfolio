@@ -81,3 +81,23 @@ img {
 img:hover { 
 	box-shadow: 0 0 15px #888; 
 } 
+
+@media only screen and (max-width: 64.063em) {
+
+	h3 {
+		margin-left: 45px;
+	}
+
+	h4 {
+		margin-right: 45px;
+	}
+
+	.upper_label {
+		margin-top: 60px;
+	}
+
+	.break {
+		padding: 3px;
+	}
+
+}
