@@ -88,6 +88,10 @@ img:hover {
 		margin-left: 45px;
 	}
 
+	blockquote {
+		margin-left: 35px;
+	}
+
 	h4 {
 		margin-right: 45px;
 	}
@@ -100,4 +104,17 @@ img:hover {
 		padding: 3px;
 	}
 
+}
+
+#quote {
+	color: white;
+	font-size: 14px;
+}
+
+#quote_name {
+	color:#AAA;
+}
+
+blockquote {
+	padding-top: 0;
 }
